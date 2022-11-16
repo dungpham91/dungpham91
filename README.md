@@ -47,10 +47,10 @@ As part of my job, I build my website and write my articles on it.
 Some of my current articles:
 
 <!-- BLOG-POST-LIST:START -->
+- [What is DevOps?](https://devopslite.com/what-is-devops/)
 - [Import “PySimpleGUI” could not be resolved](https://devopslite.com/import-pysimplegui-could-not-be-resolved/)
 - [MySQL Workbench cannot store password on Linux](https://devopslite.com/mysql-workbench-cannot-store-password/)
 - [Vagrant was unable to check revocation for the certificate](https://devopslite.com/vagrant-was-unable-to-check-revocation-for-the-certificate/)
-- [Fix error configuring Terraform AWS Provider](https://devopslite.com/fix-error-configuring-terraform-aws-provider/)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
