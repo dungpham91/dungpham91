@@ -14,5 +14,6 @@ jobs:
       - name: Pull in recent blog posts
         uses: gautamkrishnar/blog-post-workflow@master
         with:
+          user_agent: "Github-Actions"
           max_post_count: "4"
           feed_list: "https://devopslite.com/feed/"
