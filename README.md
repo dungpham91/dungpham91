@@ -47,10 +47,10 @@ As part of my job, I build my website and write my articles on it.
 Some of my current articles:
 
 <!-- BLOG-POST-LIST:START -->
+- [Benefits of IaC tools](https://devopslite.com/benefits-of-iac-tools/)
 - [What is DevOps?](https://devopslite.com/what-is-devops/)
 - [Import “PySimpleGUI” could not be resolved](https://devopslite.com/import-pysimplegui-could-not-be-resolved/)
 - [MySQL Workbench cannot store password on Linux](https://devopslite.com/mysql-workbench-cannot-store-password/)
-- [Vagrant was unable to check revocation for the certificate](https://devopslite.com/vagrant-was-unable-to-check-revocation-for-the-certificate/)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
