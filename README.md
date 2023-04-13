@@ -47,10 +47,10 @@ As part of my job, I build my website and write my articles on it.
 Some of my current articles:
 
 <!-- BLOG-POST-LIST:START -->
+- [Terraform postgres pq tuple concurrently updated](https://devopslite.com/terraform-postgres-pq-tuple-concurrently-updated/)
 - [Send email to a list of addresses with Python](https://devopslite.com/send-email-to-a-list-of-addresses-with-python/)
 - [How to access the MSK cluster with UI](https://devopslite.com/how-to-access-the-msk-cluster-with-ui/)
 - [Benefits of IaC tools](https://devopslite.com/benefits-of-iac-tools/)
-- [What is DevOps?](https://devopslite.com/what-is-devops/)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
