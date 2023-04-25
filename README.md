@@ -1,6 +1,6 @@
 # Hi guys! <img src="gif/wave.gif" width="30"/>
 
-My name is **Dung Pham** (my full Vietnamese name is **Phạm Trung Dũng**) and I'm a DevOps engineer. I'm from Vietnam, living in Da Nang city and currently working at [Prophet Exchange](https://prophetbettingexchange.com).
+My name is **Dung Pham** (my full Vietnamese name is **Phạm Trung Dũng**) and I'm a DevOps/DevSecOps engineer. I'm from Vietnam, living with my family in Da Nang city.
 
 You can find me on:
 <p align='center'>
@@ -41,8 +41,7 @@ You can find me on:
 ## ✍️ Blog & Writing
 
 As part of my job, I build my website and write my articles on it.
-- Blog in Vietnamese: [https://toivietblog.com](https://toivietblog.com)
-- Blog in English: [https://devopslite.com](https://devopslite.com)
+- Blog: [https://devopslite.com](https://devopslite.com)
 
 Some of my current articles:
 
