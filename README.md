@@ -64,11 +64,4 @@ Some of my current articles:
   <img align="center" src="https://streak-stats.demolab.com?user=dungpham91" alt="Dung Pham's GitHub Streak" />
 </a>
 
-<a href="https://github.com/dungpham91/terraform-eks">
-  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=dungpham91&repo=terraform-eks&title_color" />
-</a>
-<a href="https://github.com/dungpham91/jenkins-terraform-ansible-sample">
-  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=dungpham91&repo=jenkins-terraform-ansible-sample" />
-</a>
-
 <!-- Refer: https://github.com/MartinHeinz/MartinHeinz/blob/master/README.md -->
