@@ -55,16 +55,20 @@ Some of my current articles:
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/dungpham91/dungpham91">
-  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dungpham91&hide=java,html,text&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=dungpham91&show_icons=true&include_all_commits=true&show=reviews&rank_icon=percentile" alt="Dung Pham's GitHub Stats" />
 </a>
 <a href="https://github.com/dungpham91/dungpham91">
-  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=dungpham91&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Dung Pham's GitHub Stats" />
-</a> 
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dungpham91&layout=donut" />
+</a>
+<a href="https://github.com/dungpham91/dungpham91">
+  <img align="center" src="https://streak-stats.demolab.com?user=dungpham91" alt="Dung Pham's GitHub Streak" />
+</a>
+
 <a href="https://github.com/dungpham91/terraform-eks">
-  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=dungpham91&repo=terraform-eks&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=dungpham91&repo=terraform-eks&title_color" />
 </a>
 <a href="https://github.com/dungpham91/jenkins-terraform-ansible-sample">
-  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=dungpham91&repo=jenkins-terraform-ansible-sample&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=dungpham91&repo=jenkins-terraform-ansible-sample" />
 </a>
 
 <!-- Refer: https://github.com/MartinHeinz/MartinHeinz/blob/master/README.md -->
