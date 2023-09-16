@@ -46,10 +46,10 @@ As part of my job, I build my website and write my articles on it.
 Some of my current articles:
 
 <!-- BLOG-POST-LIST:START -->
+- [How to delete a role in PostgreSQL](https://devopslite.com/how-to-delete-a-role-in-postgresql/)
 - [Should use LastPass for password management?](https://devopslite.com/should-use-lastpass-for-password-management/)
 - [Error acquiring the state lock](https://devopslite.com/error-acquiring-the-state-lock/)
 - [Don’t believe terraform plan for all the thing](https://devopslite.com/dont-believe-terraform-plan-for-all-the-thing/)
-- [Terraform postgres pq tuple concurrently updated](https://devopslite.com/terraform-postgres-pq-tuple-concurrently-updated/)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
