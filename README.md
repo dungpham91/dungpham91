@@ -13,9 +13,11 @@ You can find me on:
 <a href="https://www.linkedin.com/in/phamtrungdung" target="_blank"><img src="images/linkedin.png" alt="linkedin" title="Linkedin" width="30"/></a>&nbsp;&nbsp;
 </p>
 
-> **`Any sponsorship from you is extremely helpful to me to be able to pay for the server, lab environment, bandwidth and tools.`**
+```sh
+Any sponsorship from you is extremely helpful to me to be able to pay for the server, lab environment, bandwidth and tools.
+```
 
-<p style="text-align: center;"><a href="https://www.buymeacoffee.com/devopslite.com" target="_blank"><img src="images/buy-me-a-coffee.png" alt="buy-me-a-coffee" title="Donate" width="250"/></a></p>
+<p align='center'><a href="https://www.buymeacoffee.com/devopslite.com" target="_blank"><img src="images/buy-me-a-coffee.png" alt="buy-me-a-coffee" title="Donate" width="250"/></a></p>
 
 ## 🔧 Technologies & Tools
 
