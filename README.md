@@ -1,6 +1,6 @@
 # Hi guys! <img src="gif/wave.gif" width="30"/>
 
-My name is **Dung Pham** (my full Vietnamese name is **Phạm Trung Dũng**) and I'm a DevOps/DevSecOps engineer. I'm from Vietnam, living with my family in Da Nang city.
+My name is **Daniel Pham** (my full Vietnamese name is **Phạm Trung Dũng**) and I'm a DevOps/DevSecOps engineer. I'm from Vietnam, living with my family in Da Nang city.
 
 You can find me on:
 <p align='center'>
