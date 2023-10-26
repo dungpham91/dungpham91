@@ -14,7 +14,7 @@ You can find me on:
 </p>
 
 ```sh
-Any sponsorship from you is extremely helpful to me to be able to pay for the server, lab environment, bandwidth and tools.
+Any sponsorship from you is extremely helpful to me to be able to pay for the server, lab environment and tools.
 ```
 
 <p align='center'><a href="https://www.buymeacoffee.com/devopslite.com" target="_blank"><img src="images/buy-me-a-coffee.png" alt="buy-me-a-coffee" title="Donate" width="250"/></a></p>
