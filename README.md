@@ -4,11 +4,18 @@ My name is **Daniel Pham** (my full Vietnamese name is **Phạm Trung Dũng**) a
 
 You can find me on:
 <p align='center'>
-<a href="https://www.facebook.com/danie.pham91" target="_blank"><img src="images/facebook.png" alt="facebook" width="30"/></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/phamtrungdung" target="_blank"><img src="images/linkedin.png" alt="linkedin" width="30"/></a>&nbsp;&nbsp;
-<a href="#" target="_blank"><img src="images/twitter.png" alt="twitter" width="30"/></a>&nbsp;&nbsp;
-<a href="#" target="_blank"><img src="images/instagram.png" alt="instagram" width="30"/></a>
+<a href="https://www.facebook.com/DevOpsLite" target="_blank"><img src="images/facebook.png" alt="facebook" title="Facebook" width="30"/></a>&nbsp;&nbsp;
+<a href="https://www.youtube.com/@devopslite" target="_blank"><img src="images/youtube.png" alt="youtube" title="YouTube" width="30"/></a>&nbsp;&nbsp;
+<a href="https://twitter.com/devopslite" target="_blank"><img src="images/twitter.png" alt="twitter" title="Twitter" width="30"/></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/devopslite" target="_blank"><img src="images/instagram.png" alt="instagram" title="Instagram" width="30"/></a>
+<a href="https://www.pinterest.com/devopslite" target="_blank"><img src="images/pinterest.png" alt="pinterest" title="Pinterest" width="30"/></a>
+<a href="https://devopslite.tumblr.com" target="_blank"><img src="images/tumblr.png" alt="tumblr" title="Tumblr" width="30"/></a>
+<a href="https://www.linkedin.com/in/phamtrungdung" target="_blank"><img src="images/linkedin.png" alt="linkedin" title="Linkedin" width="30"/></a>&nbsp;&nbsp;
 </p>
+
+> **`Any sponsorship from you is extremely helpful to me to be able to pay for the server, lab environment, bandwidth and tools.`**
+
+<p style="text-align: center;"><a href="https://www.buymeacoffee.com/devopslite.com" target="_blank"><img src="images/buy-me-a-coffee.png" alt="buy-me-a-coffee" title="Donate" width="250"/></a></p>
 
 ## 🔧 Technologies & Tools
 
