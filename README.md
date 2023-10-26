@@ -7,9 +7,9 @@ You can find me on:
 <a href="https://www.facebook.com/DevOpsLite" target="_blank"><img src="images/facebook.png" alt="facebook" title="Facebook" width="30"/></a>&nbsp;&nbsp;
 <a href="https://www.youtube.com/@devopslite" target="_blank"><img src="images/youtube.png" alt="youtube" title="YouTube" width="30"/></a>&nbsp;&nbsp;
 <a href="https://twitter.com/devopslite" target="_blank"><img src="images/twitter.png" alt="twitter" title="Twitter" width="30"/></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/devopslite" target="_blank"><img src="images/instagram.png" alt="instagram" title="Instagram" width="30"/></a>
-<a href="https://www.pinterest.com/devopslite" target="_blank"><img src="images/pinterest.png" alt="pinterest" title="Pinterest" width="30"/></a>
-<a href="https://devopslite.tumblr.com" target="_blank"><img src="images/tumblr.png" alt="tumblr" title="Tumblr" width="30"/></a>
+<a href="https://www.instagram.com/devopslite" target="_blank"><img src="images/instagram.png" alt="instagram" title="Instagram" width="30"/></a>&nbsp;&nbsp;
+<a href="https://www.pinterest.com/devopslite" target="_blank"><img src="images/pinterest.png" alt="pinterest" title="Pinterest" width="30"/></a>&nbsp;&nbsp;
+<a href="https://devopslite.tumblr.com" target="_blank"><img src="images/tumblr.png" alt="tumblr" title="Tumblr" width="30"/></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/phamtrungdung" target="_blank"><img src="images/linkedin.png" alt="linkedin" title="Linkedin" width="30"/></a>&nbsp;&nbsp;
 </p>
 
