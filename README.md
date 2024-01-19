@@ -11,11 +11,14 @@ You can find me on:
 <a href="https://www.pinterest.com/devopslite" target="_blank"><img src="images/pinterest.png" alt="pinterest" title="Pinterest" width="30"/></a>&nbsp;&nbsp;
 <a href="https://devopslite.tumblr.com" target="_blank"><img src="images/tumblr.png" alt="tumblr" title="Tumblr" width="30"/></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/phamtrungdung" target="_blank"><img src="images/linkedin.png" alt="linkedin" title="Linkedin" width="30"/></a>&nbsp;&nbsp;
+<a href="https://gitlab.com/dungpham91" target="_blank"><img src="images/gitlab.png" alt="gitlab" title="Gitlab" width="30"/></a>&nbsp;&nbsp;
 </p>
 
-```sh
+<div style="margin-top:20px;margin-bottom:20px;">
+<p style="font-family: 'Arial', sans-serif; font-size: 18px; font-weight: bold; color: #FFD700; text-align: center; text-shadow: 2px 2px 4px #888888; background-color: #2E2E2E; padding: 10px; border-radius: 10px;">
 Any sponsorship from you is extremely helpful to me to be able to pay for the server, lab environment and tools.
-```
+</p>
+</div>
 
 <p align='center'><a href="https://www.buymeacoffee.com/devopslite.com" target="_blank"><img src="images/buy-me-a-coffee.png" alt="buy-me-a-coffee" title="Donate" width="250"/></a></p>
 
@@ -29,6 +32,7 @@ Any sponsorship from you is extremely helpful to me to be able to pay for the se
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Helm-informational?style=flat&logo=helm&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazonaws&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-Azure-informational?style=flat&logo=microsoftazure&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-GCP-informational?style=flat&logo=googlecloud&logoColor=white&color=2bbc8a)
@@ -40,12 +44,17 @@ Any sponsorship from you is extremely helpful to me to be able to pay for the se
 ![](https://img.shields.io/badge/CI/CD-Circle%20CI-informational?style=flat&logo=circleci&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/CI/CD-Argo%20CD-informational?style=flat&logo=argo&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/IaC-Terraform-informational?style=flat&logo=terraform&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/IaC-Terragrunt-informational?style=flat&logo=terraform&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/IaC-CloudFormation-informational?style=flat&logo=amazonaws&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/IaC-Ansible-informational?style=flat&logo=ansible&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Monitoring-Prometheus-informational?style=flat&logo=prometheus&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Monitoring-Prometheus--Grafana-informational?style=flat&logo=prometheus&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Monitoring-Icinga-informational?style=flat&logo=icinga&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Logging-Splunk-informational?style=flat&logo=splunk&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Logging-Graylog-informational?style=flat&logo=graylog&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Logging-ELK%20Stack-informational?style=flat&logo=elasticstack&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Logging-EFK%20Stack-informational?style=flat&logo=elasticstack&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/SIEM-Wazuh-informational?style=flat&logo=springsecurity&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Observability-New%20Relic-informational?style=flat&logo=newrelic&logoColor=white&color=2bbc8a)
 
 ## ✍️ Blog & Writing
 
