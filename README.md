@@ -15,7 +15,9 @@ You can find me on:
 </p>
 
 <div style="width: 100%;">
-  <img src="images/sponsor.svg" style="width: 100%;" alt="Sponsor">
+  <a href="https://www.buymeacoffee.com/devopslite.com" target="_blank">
+    <img src="images/sponsor.svg" style="width: 100%;" alt="Sponsor">
+  </a>
 </div>
 
 <p align='center'><a href="https://www.buymeacoffee.com/devopslite.com" target="_blank"><img src="images/buy-me-a-coffee.png" alt="buy-me-a-coffee" title="Donate" width="250"/></a></p>
