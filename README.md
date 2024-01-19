@@ -14,10 +14,8 @@ You can find me on:
 <a href="https://gitlab.com/dungpham91" target="_blank"><img src="images/gitlab.png" alt="gitlab" title="Gitlab" width="30"/></a>&nbsp;&nbsp;
 </p>
 
-<div style="margin-top:20px;margin-bottom:20px;">
-<p style="font-family: 'Arial', sans-serif; font-size: 18px; font-weight: bold; color: #FFD700; text-align: center; text-shadow: 2px 2px 4px #888888; background-color: #2E2E2E; padding: 10px; border-radius: 10px;">
-Any sponsorship from you is extremely helpful to me to be able to pay for the server, lab environment and tools.
-</p>
+<div style="width: 100%;">
+  <img src="images/sponsor.svg" style="width: 100%;" alt="Sponsor">
 </div>
 
 <p align='center'><a href="https://www.buymeacoffee.com/devopslite.com" target="_blank"><img src="images/buy-me-a-coffee.png" alt="buy-me-a-coffee" title="Donate" width="250"/></a></p>
