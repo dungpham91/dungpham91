@@ -14,7 +14,7 @@ You can find me on:
 <a href="https://gitlab.com/dungpham91" target="_blank"><img src="images/gitlab.png" alt="gitlab" title="Gitlab" width="30"/></a>&nbsp;&nbsp;
 </p>
 
-<div style="width: 100%;">
+<div style="width: 100%; margin-bottom: 10px;">
   <a href="https://www.buymeacoffee.com/devopslite.com" target="_blank">
     <img src="images/sponsor.svg" style="width: 100%;" alt="Sponsor">
   </a>
