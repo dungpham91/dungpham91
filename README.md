@@ -60,10 +60,10 @@ As part of my job, I build my website and write my articles on it.
 Some of my current articles:
 
 <!-- BLOG-POST-LIST:START -->
+- [Install XAMPP on Windows 11](https://devopslite.com/install-xampp-on-windows-11/)
 - [What is WordPress?](https://devopslite.com/what-is-wordpress/)
 - [Experience in detecting Social Engineering attacks](https://devopslite.com/experience-in-detecting-social-engineering-attacks/)
 - [How to delete a role in PostgreSQL](https://devopslite.com/how-to-delete-a-role-in-postgresql/)
-- [Should use LastPass for password management?](https://devopslite.com/should-use-lastpass-for-password-management/)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
