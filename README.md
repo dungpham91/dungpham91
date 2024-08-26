@@ -60,10 +60,10 @@ As part of my job, I build my website and write my articles on it.
 Some of my current articles:
 
 <!-- BLOG-POST-LIST:START -->
+- [Configure Git: username, email, and essential settings](https://devopslite.com/configure-git-username-email-and-essential-settings/)
 - [How to install Git on major operating systems](https://devopslite.com/how-to-install-git-on-major-operating-systems/)
 - [Introduction to Git and GitHub](https://devopslite.com/introduction-to-git-and-github/)
 - [Fix Notion cannot login on Windows 11](https://devopslite.com/fix-notion-cannot-login-on-windows-11/)
-- [Install XAMPP on Windows 11](https://devopslite.com/install-xampp-on-windows-11/)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
