@@ -60,10 +60,10 @@ As part of my job, I build my website and write my articles on it.
 Some of my current articles:
 
 <!-- BLOG-POST-LIST:START -->
+- [Git change management basics](https://devopslite.com/git-change-management-basics/)
 - [Git Basic: Commit, Branch, and Merge](https://devopslite.com/git-basic-commit-branch-and-merge/)
 - [Create GitHub repository and clone it](https://devopslite.com/create-github-repository-and-clone-it/)
 - [Configure Git: username, email, and essential settings](https://devopslite.com/configure-git-username-email-and-essential-settings/)
-- [How to install Git on major operating systems](https://devopslite.com/how-to-install-git-on-major-operating-systems/)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
