@@ -60,10 +60,10 @@ As part of my job, I build my website and write my articles on it.
 Some of my current articles:
 
 <!-- BLOG-POST-LIST:START -->
+- [List Security Hub alerts using Python script](https://devopslite.com/list-security-hub-alerts-using-python-script/)
 - [Restore Delete marker objects in S3 bucket](https://devopslite.com/restore-delete-marker-objects-in-s3-bucket/)
 - [SageMaker loading screen is taking a long time](https://devopslite.com/sagemaker-loading-screen-is-taking-a-long-time/)
 - [Handling git conflict when merging branches](https://devopslite.com/handling-git-conflict-when-merging-branches/)
-- [Git branch management basics](https://devopslite.com/git-branch-management-basics/)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
