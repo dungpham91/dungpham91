@@ -60,10 +60,10 @@ As part of my job, I build my website and write my articles on it.
 Some of my current articles:
 
 <!-- BLOG-POST-LIST:START -->
+- [Git rebase for cleaner commit history](https://devopslite.com/git-rebase-for-cleaner-commit-history/)
 - [Git hooks for automating tasks](https://devopslite.com/git-hooks-for-automating-tasks/)
 - [.gitignore for ignoring unnecessary files](https://devopslite.com/gitignore-for-ignoring-unnecessary-files/)
 - [Git history with git log](https://devopslite.com/git-history-with-git-log/)
-- [List Security Hub alerts using Python script](https://devopslite.com/list-security-hub-alerts-using-python-script/)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
