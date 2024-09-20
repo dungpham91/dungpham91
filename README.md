@@ -60,10 +60,10 @@ As part of my job, I build my website and write my articles on it.
 Some of my current articles:
 
 <!-- BLOG-POST-LIST:START -->
+- [Git cherry-pick for specific commits](https://devopslite.com/git-cherry-pick-for-specific-commits/)
 - [Git stash for temporary changes](https://devopslite.com/git-stash-for-temporary-changes/)
 - [Git rebase for cleaner commit history](https://devopslite.com/git-rebase-for-cleaner-commit-history/)
 - [Git hooks for automating tasks](https://devopslite.com/git-hooks-for-automating-tasks/)
-- [.gitignore for ignoring unnecessary files](https://devopslite.com/gitignore-for-ignoring-unnecessary-files/)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
