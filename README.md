@@ -60,10 +60,10 @@ As part of my job, I build my website and write my articles on it.
 Some of my current articles:
 
 <!-- BLOG-POST-LIST:START -->
+- [Github issues for project management](https://devopslite.com/github-issues-for-project-management/)
 - [Use Trivy to scan Docker images locally](https://devopslite.com/use-trivy-to-scan-docker-images-locally/)
 - [Delete S3 bucket with large number of objects](https://devopslite.com/delete-s3-bucket-with-large-number-of-objects/)
 - [Git cherry-pick for specific commits](https://devopslite.com/git-cherry-pick-for-specific-commits/)
-- [Git stash for temporary changes](https://devopslite.com/git-stash-for-temporary-changes/)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
