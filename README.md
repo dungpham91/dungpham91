@@ -60,10 +60,10 @@ As part of my job, I build my website and write my articles on it.
 Some of my current articles:
 
 <!-- BLOG-POST-LIST:START -->
+- [Secure Github Access and Management](https://devopslite.com/secure-github-access-and-management/)
 - [Github Actions for automating CI/CD](https://devopslite.com/github-actions-for-automating-ci-cd/)
 - [Pull Request creation and management](https://devopslite.com/pull-request-creation-and-management/)
 - [Github projects for project management](https://devopslite.com/github-projects-for-project-management/)
-- [Github issues for project management](https://devopslite.com/github-issues-for-project-management/)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
