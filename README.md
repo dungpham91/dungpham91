@@ -60,10 +60,10 @@ As part of my job, I build my website and write my articles on it.
 Some of my current articles:
 
 <!-- BLOG-POST-LIST:START -->
+- [Exploring Terraform providers and applications](https://devopslite.com/exploring-terraform-providers-and-applications/)
 - [Mastering essential Terraform configuration](https://devopslite.com/mastering-essential-terraform-configuration/)
 - [Terraform fundamentals a beginners guide](https://devopslite.com/terraform-fundamentals-a-beginners-guide/)
 - [Install pyarrow on Alpine 3.20](https://devopslite.com/install-pyarrow-on-alpine-3-20/)
-- [Experience with an unmanageable KMS key](https://devopslite.com/experience-with-an-unmanageable-kms-key/)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
