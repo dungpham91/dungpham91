@@ -10,7 +10,6 @@ You can find me on:
 <a href="https://www.instagram.com/devopslite" target="_blank"><img src="images/instagram.png" alt="instagram" title="Instagram" width="30"/></a>&nbsp;&nbsp;
 <a href="https://www.threads.net/@devopslite" target="_blank"><img src="images/threads.png" alt="threads" title="Threads" width="30"/></a>&nbsp;&nbsp;
 <a href="https://www.pinterest.com/devopslite" target="_blank"><img src="images/pinterest.png" alt="pinterest" title="Pinterest" width="30"/></a>&nbsp;&nbsp;
-<a href="https://devopslite.tumblr.com" target="_blank"><img src="images/tumblr.png" alt="tumblr" title="Tumblr" width="30"/></a>&nbsp;&nbsp;
 <a href="https://t.me/devopslite" target="_blank"><img src="images/telegram.png" alt="telegram" title="Telegram" width="30"/></a>&nbsp;&nbsp;
 <a href="https://devopslite.medium.com" target="_blank"><img src="images/medium.png" alt="medium" title="Medium" width="30"/></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/phamtrungdung" target="_blank"><img src="images/linkedin.png" alt="linkedin" title="LinkedIn" width="30"/></a>&nbsp;&nbsp;
