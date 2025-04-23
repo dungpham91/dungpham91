@@ -62,10 +62,10 @@ As part of my job, I build my website and write my articles on it.
 Some of my current articles:
 
 <!-- BLOG-POST-LIST:START -->
+- [What is the Pulumi IaC tool?](https://devopslite.com/what-is-the-pulumi-iac-tool/)
 - [Understanding Terraform variables and outputs](https://devopslite.com/understanding-terraform-variables-and-outputs/)
 - [Exploring Terraform providers and applications](https://devopslite.com/exploring-terraform-providers-and-applications/)
 - [Mastering essential Terraform configuration](https://devopslite.com/mastering-essential-terraform-configuration/)
-- [Terraform fundamentals a beginners guide](https://devopslite.com/terraform-fundamentals-a-beginners-guide/)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
