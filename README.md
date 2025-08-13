@@ -71,10 +71,10 @@ Some of my current articles:
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/dungpham91/dungpham91">
-  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=dungpham91&show_icons=true&include_all_commits=true&show=reviews&rank_icon=percentile" alt="Dung Pham's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dungpham91&show_icons=true&include_all_commits=true&show=reviews&rank_icon=percentile" alt="Dung Pham's GitHub Stats" />
 </a>
 <a href="https://github.com/dungpham91/dungpham91">
-  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dungpham91&layout=donut" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dungpham91&layout=donut" />
 </a>
 <a href="https://github.com/dungpham91/dungpham91">
   <img align="center" src="https://streak-stats.demolab.com?user=dungpham91" alt="Dung Pham's GitHub Streak" />
