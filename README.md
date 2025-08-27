@@ -77,7 +77,7 @@ Some of my current articles:
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dungpham91&layout=donut" />
 </a>
 <a href="https://github.com/dungpham91/dungpham91">
-  <img align="center" src="https://streak-stats.demolab.com?user=dungpham91" alt="Dung Pham's GitHub Streak" />
+  <img align="center" src="https://git-hub-streak-stats.vercel.app?user=dungpham91" alt="Dung Pham's GitHub Streak" />
 </a>
 
 <!-- Refer: https://github.com/MartinHeinz/MartinHeinz/blob/master/README.md -->
