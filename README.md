@@ -154,19 +154,19 @@ I'm **Phạm Trung Dũng**. I work on CI/CD, GitOps, cloud platforms, and the ob
   <tr>
     <td width="58%" align="center" valign="top">
       <a href="https://github.com/dungpham91">
-        <img width="100%" src="https://github-readme-stats.shion.dev/api?username=dungpham91&show_icons=true&include_all_commits=true&show=reviews&rank_icon=percentile&hide_border=true&theme=transparent" alt="GitHub stats" />
+        <img width="100%" src="https://github-readme-stats.shion.dev/api?username=dungpham91&show_icons=true&include_all_commits=true&show=reviews&rank_icon=percentile&theme=github_dark" alt="GitHub stats" />
       </a>
     </td>
     <td width="42%" align="center" valign="top">
       <a href="https://github.com/dungpham91">
-        <img width="100%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=dungpham91&layout=compact&hide_border=true&theme=transparent" alt="Top languages" />
+        <img width="100%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=dungpham91&layout=compact&theme=github_dark" alt="Top languages" />
       </a>
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
       <a href="https://github.com/dungpham91">
-        <img width="100%" src="https://streak-stats.demolab.com/?user=dungpham91&hide_border=true&theme=transparent" alt="GitHub streak" />
+        <img width="100%" src="https://streak-stats.vercel.app/?user=dungpham91&disable_animations=true&background=0D1117&border=30363D&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakNum=58A6FF&sideNums=58A6FF&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=8B949E" alt="GitHub streak" />
       </a>
     </td>
   </tr>
