@@ -2,20 +2,6 @@
 
 My name is **Daniel Pham** (my full Vietnamese name is **Phạm Trung Dũng**) and I'm a DevOps/DevSecOps engineer. I'm from Vietnam, living with my family in Da Nang city.
 
-You can find me on:
-<p align='center'>
-<a href="https://www.facebook.com/DevOpsLite" target="_blank"><img src="images/facebook.png" alt="facebook" title="Facebook" width="30"/></a>&nbsp;&nbsp;
-<a href="https://www.youtube.com/@devopslite" target="_blank"><img src="images/youtube.png" alt="youtube" title="YouTube" width="30"/></a>&nbsp;&nbsp;
-<a href="https://x.com/devopslite" target="_blank"><img src="images/x.png" alt="x" title="X" width="30"/></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/devopslite" target="_blank"><img src="images/instagram.png" alt="instagram" title="Instagram" width="30"/></a>&nbsp;&nbsp;
-<a href="https://www.threads.net/@devopslite" target="_blank"><img src="images/threads.png" alt="threads" title="Threads" width="30"/></a>&nbsp;&nbsp;
-<a href="https://www.pinterest.com/devopslite" target="_blank"><img src="images/pinterest.png" alt="pinterest" title="Pinterest" width="30"/></a>&nbsp;&nbsp;
-<a href="https://t.me/devopslite" target="_blank"><img src="images/telegram.png" alt="telegram" title="Telegram" width="30"/></a>&nbsp;&nbsp;
-<a href="https://devopslite.medium.com" target="_blank"><img src="images/medium.png" alt="medium" title="Medium" width="30"/></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/phamtrungdung" target="_blank"><img src="images/linkedin.png" alt="linkedin" title="LinkedIn" width="30"/></a>&nbsp;&nbsp;
-<a href="https://gitlab.com/dungpham91" target="_blank"><img src="images/gitlab.png" alt="gitlab" title="GitLab" width="30"/></a>&nbsp;&nbsp;
-</p>
-
 ![](./images/sponsor.svg)
 
 <p align='center'><a href="https://www.buymeacoffee.com/devopslite.com" target="_blank"><img src="images/buy-me-a-coffee.png" alt="buy-me-a-coffee" title="Donate" width="250"/></a></p>
@@ -54,30 +40,16 @@ You can find me on:
 ![](https://img.shields.io/badge/SIEM-Wazuh-informational?style=flat&logo=springsecurity&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Observability-New%20Relic-informational?style=flat&logo=newrelic&logoColor=white&color=2bbc8a)
 
-## ✍️ Blog & Writing
-
-As part of my job, I build my website and write my articles on it.
-- Blog: [https://devopslite.com](https://devopslite.com)
-
-Some of my current articles:
-
-<!-- BLOG-POST-LIST:START -->
-- [What is the Pulumi IaC tool?](https://devopslite.com/what-is-the-pulumi-iac-tool/)
-- [Understanding Terraform variables and outputs](https://devopslite.com/understanding-terraform-variables-and-outputs/)
-- [Exploring Terraform providers and applications](https://devopslite.com/exploring-terraform-providers-and-applications/)
-- [Mastering essential Terraform configuration](https://devopslite.com/mastering-essential-terraform-configuration/)
-<!-- BLOG-POST-LIST:END -->
-
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/dungpham91/dungpham91">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dungpham91&show_icons=true&include_all_commits=true&show=reviews&rank_icon=percentile" alt="Dung Pham's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.shion.dev/api?username=dungpham91&show_icons=true&include_all_commits=true&show=reviews&rank_icon=percentile" alt="Dung Pham's GitHub Stats" />
 </a>
 <a href="https://github.com/dungpham91/dungpham91">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dungpham91&layout=donut" />
+  <img align="center" src="https://github-readme-stats.shion.dev/api/top-langs/?username=dungpham91&layout=donut" alt="Dung Pham's Top Languages" />
 </a>
 <a href="https://github.com/dungpham91/dungpham91">
-  <img align="center" src="https://git-hub-streak-stats.vercel.app?user=dungpham91" alt="Dung Pham's GitHub Streak" />
+  <img align="center" src="https://streak-stats.demolab.com/?user=dungpham91" alt="Dung Pham's GitHub Streak" />
 </a>
 
 <!-- Refer: https://github.com/MartinHeinz/MartinHeinz/blob/master/README.md -->
